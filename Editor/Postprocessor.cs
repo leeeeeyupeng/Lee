@@ -38,7 +38,7 @@ public class Postprocessor : AssetPostprocessor
         //if (assetPath.Contains("@"))
         {
             ModelImporter modelImporter = (ModelImporter)assetImporter;
-            Debug.Log(modelImporter.name);
+            //Debug.Log(modelImporter.name);
         }
     }
 }

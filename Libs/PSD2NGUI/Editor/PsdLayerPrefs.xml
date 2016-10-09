@@ -1,0 +1,159 @@
+<Keys>
+  <Key Name="PsdParser.selectedProjectIndex" Value="1" />
+  <Key Name="PsdParser.projectName" Value="game" />
+  <Key Name="PsdParser.projectNames" Value="lobby&#xA;game&#xA;store" />
+  <Key Name="PsdParser.Default UI Project.nguiRoot" Value="" />
+  <Key Name="PsdParser.Default UI Project.targetWidth" Value="720" />
+  <Key Name="PsdParser.Default UI Project.targetHeight" Value="1280" />
+  <Key Name="PsdParser.Default UI Project.addFont" Value="1" />
+  <Key Name="PsdParser.Default UI Project.useOneAtlas" Value="1" />
+  <Key Name="PsdParser.Default UI Project.keepOldSprites" Value="1" />
+  <Key Name="PsdParser.Default UI Project.createControls" Value="1" />
+  <Key Name="PsdParser.Default UI Project.atlasPrefab" Value="" />
+  <Key Name="PsdParser.Default UI Project.fontPrefab" Value="" />
+  <Key Name="PsdParser.Default UI Project.fontData" Value="" />
+  <Key Name="PsdParser.Default UI Project.fontTexture" Value="" />
+  <Key Name="PsdParser.Default UI Project.psdFiles" Value="" />
+  <Key Name="PsdParser.Default UI Project.camType" Value="1" />
+  <Key Name="PsdParser.Test.camType" Value="1" />
+  <Key Name="PsdParser.Test.nguiRoot" Value="a3516d3b-a30d-4c27-9765-da089f76fe50" />
+  <Key Name="PsdParser.Test.targetWidth" Value="400" />
+  <Key Name="PsdParser.Test.targetHeight" Value="300" />
+  <Key Name="PsdParser.Test.addFont" Value="0" />
+  <Key Name="PsdParser.Test.useOneAtlas" Value="1" />
+  <Key Name="PsdParser.Test.keepOldSprites" Value="1" />
+  <Key Name="PsdParser.Test.createControls" Value="1" />
+  <Key Name="PsdParser.Test.atlasPrefab" Value="Assets/PSD2NGUI/Example/freebie-yummy-ui-dl_Atlas.prefab" />
+  <Key Name="PsdParser.Test.fontPrefab" Value="" />
+  <Key Name="PsdParser.Test.fontData" Value="Assets/PSD2NGUI/Example/nanumGothic/nanumGothic.txt" />
+  <Key Name="PsdParser.Test.fontTexture" Value="Assets/PSD2NGUI/Example/nanumGothic/nanumGothic.png" />
+  <Key Name="PsdParser.Test.psdFiles" Value="Assets/PSD2NGUI/Example/freebie-yummy-ui-dl.psd:41502cb72d3aa54bf4264174de26a752:1" />
+  <Key Name="PsdParser.Default UI Project.fontType" Value="2" />
+  <Key Name="PsdParser.Default UI Project.trueTypeFont" Value="" />
+  <Key Name="PsdParser.lobby.nguiRoot" Value="ad19b5d9-c407-46e7-9597-576692359f57" />
+  <Key Name="PsdParser.lobby.targetWidth" Value="640" />
+  <Key Name="PsdParser.lobby.targetHeight" Value="1136" />
+  <Key Name="PsdParser.lobby.camType" Value="2" />
+  <Key Name="PsdParser.lobby.fontType" Value="1" />
+  <Key Name="PsdParser.lobby.useOneAtlas" Value="1" />
+  <Key Name="PsdParser.lobby.keepOldSprites" Value="0" />
+  <Key Name="PsdParser.lobby.createControls" Value="1" />
+  <Key Name="PsdParser.lobby.atlasPrefab" Value="Assets/Resources/lobby/UI_main_Atlas.prefab" />
+  <Key Name="PsdParser.lobby.fontPrefab" Value="" />
+  <Key Name="PsdParser.lobby.fontData" Value="" />
+  <Key Name="PsdParser.lobby.fontTexture" Value="" />
+  <Key Name="PsdParser.lobby.trueTypeFont" Value="Assets/Lib/PSD2NGUI/Example/nanumGothic.ttf" />
+  <Key Name="PsdParser.lobby.psdFiles" Value="Assets/Resources/lobby/UI_main.psd:2aeb8a9ecb3c769e996ea8358ab2b52c:1" />
+  <Key Name="PsdParser.store.nguiRoot" Value="46f8b7ee-2458-4cf4-ade3-9e1ff945e185" />
+  <Key Name="PsdParser.store.targetWidth" Value="640" />
+  <Key Name="PsdParser.store.targetHeight" Value="1136" />
+  <Key Name="PsdParser.store.camType" Value="2" />
+  <Key Name="PsdParser.store.fontType" Value="1" />
+  <Key Name="PsdParser.store.useOneAtlas" Value="1" />
+  <Key Name="PsdParser.store.keepOldSprites" Value="0" />
+  <Key Name="PsdParser.store.createControls" Value="1" />
+  <Key Name="PsdParser.store.atlasPrefab" Value="Assets/Libs/PSD2NGUI/Example/example_Atlas.prefab" />
+  <Key Name="PsdParser.store.fontPrefab" Value="" />
+  <Key Name="PsdParser.store.fontData" Value="" />
+  <Key Name="PsdParser.store.fontTexture" Value="" />
+  <Key Name="PsdParser.store.trueTypeFont" Value="" />
+  <Key Name="PsdParser.store.psdFiles" Value="" />
+  <Key Name="PsdParser.game.nguiRoot" Value="" />
+  <Key Name="PsdParser.game.targetWidth" Value="640" />
+  <Key Name="PsdParser.game.targetHeight" Value="1136" />
+  <Key Name="PsdParser.game.camType" Value="1" />
+  <Key Name="PsdParser.game.fontType" Value="1" />
+  <Key Name="PsdParser.game.useOneAtlas" Value="1" />
+  <Key Name="PsdParser.game.keepOldSprites" Value="0" />
+  <Key Name="PsdParser.game.createControls" Value="1" />
+  <Key Name="PsdParser.game.atlasPrefab" Value="Assets/UIPSD2NGUI/Battle/战斗界面_Atlas.prefab" />
+  <Key Name="PsdParser.game.fontPrefab" Value="" />
+  <Key Name="PsdParser.game.fontData" Value="" />
+  <Key Name="PsdParser.game.fontTexture" Value="" />
+  <Key Name="PsdParser.game.trueTypeFont" Value="Library/unity default resources" />
+  <Key Name="PsdParser.game.psdFiles" Value="Assets/UIPSD2NGUI/Battle/战斗地图界面.psd:5d70bdc555a3397823d55f5c28a5493a:1&#xA;Assets/UIPSD2NGUI/Battle/战斗复活购买界面.psd:fd6bcda820dfe3694387ae74abc8f1c4:1&#xA;Assets/UIPSD2NGUI/Battle/战斗背包界面.psd:933ba25ed6481e7c3acb88219d050ea6:1&#xA;Assets/UIPSD2NGUI/Battle/战斗信息界面.psd:c727b183b18e50b1c7e974c5af94f1f7:1" />
+  <Key Name="PsdParser.example.camType" Value="1" />
+  <Key Name="PsdParser.example2.nguiRoot" Value="1ecd1d96-fd82-4369-b0a9-3bb026e90b1d" />
+  <Key Name="PsdParser.example2.targetWidth" Value="720" />
+  <Key Name="PsdParser.example2.targetHeight" Value="1280" />
+  <Key Name="PsdParser.example2.camType" Value="1" />
+  <Key Name="PsdParser.example2.fontType" Value="2" />
+  <Key Name="PsdParser.example2.useOneAtlas" Value="1" />
+  <Key Name="PsdParser.example2.keepOldSprites" Value="0" />
+  <Key Name="PsdParser.example2.createControls" Value="1" />
+  <Key Name="PsdParser.example2.atlasPrefab" Value="Assets/Libs/PSD2NGUI/Example/example_Atlas.prefab" />
+  <Key Name="PsdParser.example2.fontPrefab" Value="Assets/Libs/PSD2NGUI/Example/example2_Font.prefab" />
+  <Key Name="PsdParser.example2.fontData" Value="Assets/Libs/PSD2NGUI/Example/nanumGothic/nanumGothic.txt" />
+  <Key Name="PsdParser.example2.fontTexture" Value="Assets/Libs/PSD2NGUI/Example/nanumGothic/nanumGothic.png" />
+  <Key Name="PsdParser.example2.trueTypeFont" Value="Assets/Libs/PSD2NGUI/Example/nanumGothic.ttf" />
+  <Key Name="PsdParser.example2.psdFiles" Value="Assets/Libs/PSD2NGUI/Example/example2.psd:2f5f8622d7736b02f98cf392c04d0842:1" />
+  <Key Name="PsdParser.example1.nguiRoot" Value="46b3d5f6-09bb-4c28-93c6-822d216f67b3" />
+  <Key Name="PsdParser.example1.targetWidth" Value="720" />
+  <Key Name="PsdParser.example1.targetHeight" Value="1280" />
+  <Key Name="PsdParser.example1.camType" Value="1" />
+  <Key Name="PsdParser.example1.fontType" Value="2" />
+  <Key Name="PsdParser.example1.useOneAtlas" Value="1" />
+  <Key Name="PsdParser.example1.keepOldSprites" Value="0" />
+  <Key Name="PsdParser.example1.createControls" Value="1" />
+  <Key Name="PsdParser.example1.atlasPrefab" Value="" />
+  <Key Name="PsdParser.example1.fontPrefab" Value="" />
+  <Key Name="PsdParser.example1.fontData" Value="" />
+  <Key Name="PsdParser.example1.fontTexture" Value="" />
+  <Key Name="PsdParser.example1.trueTypeFont" Value="Assets/Libs/PSD2NGUI/Example/nanumGothic.ttf" />
+  <Key Name="PsdParser.example1.psdFiles" Value="Assets/Libs/PSD2NGUI/Example/example.psd:2f5f8622d7736b02f98cf392c04d0842:1&#xA;Assets/Libs/PSD2NGUI/Example/big.psd:27e5d22430c4bb1152172a5e5326fa16:1&#xA;Assets/Libs/PSD2NGUI/Example/icon.psd:572dbcf68babe0562913a44fb1cfbe9d:1&#xA;Assets/Libs/PSD2NGUI/Example/small.psd:65f33b95dc445816bbfdea81a19dcc92:1" />
+  <Key Name="PsdParser.Uexample.nguiRoot" Value="e2a8fa8d-92ee-4e92-830b-144a694d6f1e" />
+  <Key Name="PsdParser.Uexample.targetWidth" Value="720" />
+  <Key Name="PsdParser.Uexample.targetHeight" Value="1280" />
+  <Key Name="PsdParser.Uexample.camType" Value="1" />
+  <Key Name="PsdParser.Uexample.fontType" Value="2" />
+  <Key Name="PsdParser.Uexample.useOneAtlas" Value="1" />
+  <Key Name="PsdParser.Uexample.keepOldSprites" Value="0" />
+  <Key Name="PsdParser.Uexample.createControls" Value="1" />
+  <Key Name="PsdParser.Uexample.atlasPrefab" Value="Assets/Libs/PSD2NGUI/Example/example_Atlas.prefab" />
+  <Key Name="PsdParser.Uexample.fontPrefab" Value="" />
+  <Key Name="PsdParser.Uexample.fontData" Value="" />
+  <Key Name="PsdParser.Uexample.fontTexture" Value="" />
+  <Key Name="PsdParser.Uexample.trueTypeFont" Value="Assets/Libs/PSD2NGUI/Example/nanumGothic.ttf" />
+  <Key Name="PsdParser.Uexample.psdFiles" Value="Assets/Libs/PSD2NGUI/Example/example.psd:2f5f8622d7736b02f98cf392c04d0842:1&#xA;Assets/Libs/PSD2NGUI/Example/big.psd:27e5d22430c4bb1152172a5e5326fa16:1&#xA;Assets/Libs/PSD2NGUI/Example/icon.psd:572dbcf68babe0562913a44fb1cfbe9d:1&#xA;Assets/Libs/PSD2NGUI/Example/small.psd:65f33b95dc445816bbfdea81a19dcc92:1" />
+  <Key Name="PsdParser.UIexample.nguiRoot" Value="e2a8fa8d-92ee-4e92-830b-144a694d6f1e" />
+  <Key Name="PsdParser.UIexample.targetWidth" Value="720" />
+  <Key Name="PsdParser.UIexample.targetHeight" Value="1280" />
+  <Key Name="PsdParser.UIexample.camType" Value="1" />
+  <Key Name="PsdParser.UIexample.fontType" Value="2" />
+  <Key Name="PsdParser.UIexample.useOneAtlas" Value="1" />
+  <Key Name="PsdParser.UIexample.keepOldSprites" Value="0" />
+  <Key Name="PsdParser.UIexample.createControls" Value="1" />
+  <Key Name="PsdParser.UIexample.atlasPrefab" Value="Assets/Libs/PSD2NGUI/Example/example_Atlas.prefab" />
+  <Key Name="PsdParser.UIexample.fontPrefab" Value="" />
+  <Key Name="PsdParser.UIexample.fontData" Value="" />
+  <Key Name="PsdParser.UIexample.fontTexture" Value="" />
+  <Key Name="PsdParser.UIexample.trueTypeFont" Value="Assets/Libs/PSD2NGUI/Example/nanumGothic.ttf" />
+  <Key Name="PsdParser.UIexample.psdFiles" Value="Assets/Libs/PSD2NGUI/Example/example.psd:2f5f8622d7736b02f98cf392c04d0842:1&#xA;Assets/Libs/PSD2NGUI/Example/big.psd:27e5d22430c4bb1152172a5e5326fa16:1&#xA;Assets/Libs/PSD2NGUI/Example/icon.psd:572dbcf68babe0562913a44fb1cfbe9d:1&#xA;Assets/Libs/PSD2NGUI/Example/small.psd:65f33b95dc445816bbfdea81a19dcc92:1" />
+  <Key Name="PsdParser.UI/example.nguiRoot" Value="" />
+  <Key Name="PsdParser.UI/example.targetWidth" Value="720" />
+  <Key Name="PsdParser.UI/example.targetHeight" Value="1280" />
+  <Key Name="PsdParser.UI/example.camType" Value="1" />
+  <Key Name="PsdParser.UI/example.fontType" Value="2" />
+  <Key Name="PsdParser.UI/example.useOneAtlas" Value="1" />
+  <Key Name="PsdParser.UI/example.keepOldSprites" Value="0" />
+  <Key Name="PsdParser.UI/example.createControls" Value="1" />
+  <Key Name="PsdParser.UI/example.atlasPrefab" Value="Assets/Libs/PSD2NGUI/Example/example_Atlas.prefab" />
+  <Key Name="PsdParser.UI/example.fontPrefab" Value="" />
+  <Key Name="PsdParser.UI/example.fontData" Value="" />
+  <Key Name="PsdParser.UI/example.fontTexture" Value="" />
+  <Key Name="PsdParser.UI/example.trueTypeFont" Value="Assets/Libs/PSD2NGUI/Example/nanumGothic.ttf" />
+  <Key Name="PsdParser.UI/example.psdFiles" Value="Assets/Libs/PSD2NGUI/Example/example.psd:2f5f8622d7736b02f98cf392c04d0842:1&#xA;Assets/Libs/PSD2NGUI/Example/big.psd:27e5d22430c4bb1152172a5e5326fa16:1&#xA;Assets/Libs/PSD2NGUI/Example/icon.psd:572dbcf68babe0562913a44fb1cfbe9d:1&#xA;Assets/Libs/PSD2NGUI/Example/small.psd:65f33b95dc445816bbfdea81a19dcc92:1&#xA;Assets/Libs/PSD2NGUI/Example/LevelSelect/关卡选择界面.psd:792df5f03be5c3f89d6a641eb3d0c2b1:1" />
+  <Key Name="PsdParser.example.nguiRoot" Value="79a523b8-261c-4d60-905b-63e33dd374cc" />
+  <Key Name="PsdParser.example.targetWidth" Value="720" />
+  <Key Name="PsdParser.example.targetHeight" Value="1280" />
+  <Key Name="PsdParser.example.fontType" Value="2" />
+  <Key Name="PsdParser.example.useOneAtlas" Value="1" />
+  <Key Name="PsdParser.example.keepOldSprites" Value="0" />
+  <Key Name="PsdParser.example.createControls" Value="1" />
+  <Key Name="PsdParser.example.atlasPrefab" Value="Assets/Libs/PSD2NGUI/Example/example_Atlas.prefab" />
+  <Key Name="PsdParser.example.fontPrefab" Value="" />
+  <Key Name="PsdParser.example.fontData" Value="" />
+  <Key Name="PsdParser.example.fontTexture" Value="" />
+  <Key Name="PsdParser.example.trueTypeFont" Value="Assets/Libs/PSD2NGUI/Example/nanumGothic.ttf" />
+  <Key Name="PsdParser.example.psdFiles" Value="" />
+</Keys>

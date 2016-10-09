@@ -79,8 +79,14 @@ public class AnimatorEditor : Editor
         AnimatorState state = sm.AddState(newClip.name);
         state.motion = newClip;
         //把state添加在layer里面
-        AnimatorStateTransition trans = sm.AddAnyStateTransition(state);
+        //AnimatorStateTransition trans = sm.AddAnyStateTransition(state);
         //把默认的时间条件删除
-        trans.duration = 0;
+        //trans.hasExitTime = true;
+        //trans.exitTime = 0;
+
+        if (path.Contains("Idle") || path.Contains("idle"))
+        {
+            sm.defaultState = state;
+        }
     }
 }
